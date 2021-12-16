@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Main {
     public static class JavaFileHandlingExample
     {
-        public static void main(String args[]) throws FileNotFoundException, IOException {
+        public static void main(String args[]) {
             System.out.println("Please select one of the below operations");
             System.out.println(" w for write mode ");
             System.out.println(" r for read mode ");
